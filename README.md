@@ -104,3 +104,4 @@ Book link - second edition:
 ### Found an issue or have a question?
 
 Please create an [Issue](https://github.com/loiane/javascript-datastructures-algorithms/issues) or [Pull Request](https://github.com/loiane/javascript-datastructures-algorithms/pulls) 
+nice
